@@ -31,6 +31,9 @@
 
 	
 <br>
+	
+![snake.gif](https://github.com/pasheva/pasheva/blob/gen-snake/github-contribution-grid-snake.svg)
+
 <br>
 <br>
 
