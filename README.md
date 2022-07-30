@@ -3,11 +3,9 @@
 <img src="img/my-octocat.png" width="342" height="342" align="left">
 <br style="clear:both" />
 
-- 👩🏻‍🎓 I'm a junior Computer Science student at University of Illinois at Chicago. Currently taking Operating Systems and Databases.
+- 👩🏻‍🎓 I'm a senior Computer Science student at University of Illinois at Chicago.
 
-- 🧐 I'm interested in back end development, networking and distributed systems.
-
-- 🌱 I’m currently practicing algorithms and data structures
+- 🧐 I'm interested in back end development, security and distributed systems.
 
 ### Let's talk 📢 
 <a href="https://www.linkedin.com/in/mariyapasheva/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <a/>
