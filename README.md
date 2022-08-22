@@ -1,8 +1,5 @@
 ## Hi there 👋 I am Mariya
 
-<img src="img/my-octocat.png" width="342" height="342" align="left">
-<br style="clear:both" />
-
 - 👩🏻‍🎓 I'm a senior Computer Science student at University of Illinois at Chicago.
 
 - 🧐 I'm interested in back end development, security and distributed systems.
